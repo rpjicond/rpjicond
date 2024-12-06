@@ -1,5 +1,7 @@
 
-![3rNn](https://github.com/user-attachments/assets/fd0e5c20-fdda-4639-ba4b-00d269d79d65)
+![imagem1](https://github.com/user-attachments/assets/420b5f0d-8bbe-4a89-bf9b-89cc2bfcb649)
+
+
 
 # 💫 About Me:
 I’m a backend web developer with a passion for crafting scalable, efficient, and secure systems. My expertise spans frameworks like Django, Symfony, Node.js, and Express.js, enabling me to create powerful APIs and robust server-side applications. With a focus on clean architecture, database management, and seamless integrations, I strive to deliver high-quality solutions that bring complex ideas to life. 🌐💻 Check out my GitHub for projects that highlight my skills and enthusiasm for backend development! 🚀
